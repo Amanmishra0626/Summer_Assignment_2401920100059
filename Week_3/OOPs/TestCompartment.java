@@ -1,4 +1,3 @@
-package Week_3;
 import java.util.Random;
 
 abstract class Compartment{
